@@ -1,0 +1,11 @@
+{
+  "name": "s4nchezsbot",
+  "version": "2.0",
+  "description": "refactored bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "s4nchez",
+  "license": "ISC"
+}
